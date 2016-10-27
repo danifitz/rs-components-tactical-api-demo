@@ -1,0 +1,27 @@
+{
+  "name": "rs-components-tactical-api-demo",
+  "version": "1.0.0",
+  "description": "A sample Node.js app that uses RS Components Tactical APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danifitz/rs-components-tactical-api-demo.git"
+  },
+  "keywords": [
+    "api",
+    "bluemix",
+    "node.js"
+  ],
+  "author": "Daniel Fitzgerald <daniel.fitzgerald@uk.ibm.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/danifitz/rs-components-tactical-api-demo/issues"
+  },
+  "homepage": "https://github.com/danifitz/rs-components-tactical-api-demo#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
